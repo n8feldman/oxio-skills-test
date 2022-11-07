@@ -6,7 +6,8 @@ Oxio Sim Tracker
 
 To run this program, download the repository in a .zip file from github, unzip and cd into the new directory. Subsequently run "npm install". Finally, the command "npm start" should run this file on localhost:3000.
 
-This project can be deployed on GitHub pages fairly easily because it simply involves a simple front-end client; no cloud storage, apis, etc. need to be setup.
+## Deployment
+This project can be deployed on GitHub pages fairly easily because it simply involves a simple front-end client; no cloud storage, apis, etc. need to be setup. I chose not to because I'm unsure whether this would violate any copyright Oxio holds (I figured it was low risk to leave the repo public without deploying, for the time being).
 
 ## Chosen technologies
 I chose to use react because React-Table offers a very useful offers a very useful library for, well, creating tables. Seeing as the table is the biggest problem in creating this project, having a solid starting point is critical.
